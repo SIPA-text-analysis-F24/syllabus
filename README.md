@@ -168,6 +168,7 @@ We will also dive into Python basics! We will cover foundational concepts for da
     
 
 **Week 3 (9/18): Python Basics**
+
 This week we are continuing our introduction to the Python programming language.
 
 - Topics covered:

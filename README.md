@@ -6,7 +6,7 @@
 
 **Credits:** 3
 
-**Call number:** 17138
+**Call number:** 
 
 **Email:** [rsk2160@columbia.edu](mailto:rsk2160@columbia.edu)
 
@@ -143,42 +143,38 @@ This week, we will review the syllabus and the course objectives. We will also d
 *Important: Please complete this [class survey](https://docs.google.com/forms/d/1mzVC821XtZy5I9UkuehdhOaadFm31Y06GrS5vgV64o8/edit)*
 
 
-**Week 2 (9/11): Introduction to Git and Github**
+**Week 2 (9/11): Introduction to Git and Github + Python Basics**
 
-This week, we will learn the command line, which is a way of interacting with your computer without using your mousepad to complete tasks. For example, instead of manually creating a new folder, we will learn how to do that by typing a command. Knowing how to use the command line is an important first step towards learning how to program in Python. 
+This week, we will learn how to use Github, which is an industry-standard tool for collaborative and individual projects. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments. Having a GitHub page with evidence of your programming work can serve as a data science portfolio when applying for jobs.
 
-We will also learn how to use Github, which is an industry-standard tool for collaborative and individual projects. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments. Having a GitHub page with evidence of your programming work can serve as a data science portfolio when applying for jobs.
+We will also dive into Python basics! We will cover foundational concepts for data science in Python and become familiar with [Google Colab](https://colab.research.google.com/?utm_source=scs-index#scrollTo=qL_eyskFWx18), which will be our primary way of interacting with Python.
 
 
 - Topics covered:
-    - What is the command line and why is it relevant to Python?
-    - Using command prompt (Windows) or terminal (macOS) to perform basic computer commands such as creating a new folder or text file.
     - What is Github? Why is it important for data science?
     - How to use Github for collaboration?
-    - How to create a Github repository? 
+    - How to create a Github repository?
+    - What is Python? What is a Python Environment?
+    - What is Google Colab?
+    - Python syntax, identation, variables, and comments
 - Curriculum for this session:
-    - Django Girls, ["Introduction to the command-line interface"](https://tutorial.djangogirls.org/en/intro_to_command_line/)
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
+    - Rebecca Krisel's [_Intro to Python](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Why Pyhton? - Comments)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Melanie Walsh, _Introduction to Cultural Analytics_, [The Command Line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/01-Command-Line/01-The-Command-Line.html)
-        - DHRI: ["Introduction to the Command Line"](https://gc-dri.github.io/Dhrift-GC/workshops/command-line/)
-        - The Launch School: [Introduction to the Command Line](https://launchschool.com/books/command_line/read/introduction)
         - DHRI: [Introduction to Git and GitHub](https://curriculum.dhinstitutes.org/workshops/git/)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Git and GitHub](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/04-Git-GitHub.html)
-    - Cheat sheets:
-        - Tower: [The Command Line Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
-        - Clay Cooper: [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+    
 
 **Week 3 (9/18): Python Basics**
-This week we are diving into Python basics! We will cover foundational concepts for data science in Python and become familiar with [Google Colab](https://colab.research.google.com/?utm_source=scs-index#scrollTo=qL_eyskFWx18), which will be our primary way of interacting with Python. 
+This week we are continuing our introduction to the Python programming language.
 
 - Topics covered:
-    - How to interact with Python?
     - Defining variables, functions, lists, loops, comparisons, and conditionals
     - Troubleshooting common errors
 - Curriculum for this session:
-    - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb)
+    - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Function - Common Errors)
 - Assignments (due by 9:00 am on the day of class):
     - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
   - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)(see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
@@ -284,7 +280,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to extract top hashtags.
     - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
-    - Rebecca Krise/ChatGPT, [Extracting Youtube Comments](https://chat.openai.com/share/290c2c82-a05d-405c-a2ce-a182eae074eb)
+    - Rebecca Krisel/ChatGPT, [Extracting Youtube Comments](https://chat.openai.com/share/290c2c82-a05d-405c-a2ce-a182eae074eb)
     - Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
     - Martin Breuss, [ChatGPT: Your Personal Python Coding Mentor](https://realpython.com/chatgpt-coding-mentor-python/)
     - Geeks for Geeks, [How to Extract YouTube Comments Using Youtube API – Python](https://www.geeksforgeeks.org/how-to-extract-youtube-comments-using-youtube-api-python/)

@@ -88,9 +88,9 @@ Final research project:
 For the final research project, you will pair a method of data collection with a method of text analysis to answer a research question of your choice. The final version will be written in Markdown, shared on your GitHub account, will include text (2,000 words), and your code. Some examples of possible topics include: 1) running a sentiment analysis of the comments below a Presidential Address Youtube video; 2) creating a named entity recognition bot to quickly parse out names of companies, people, and events across financial news; or 3) collecting news articles from two publications across the ideological spectrum and using topic modeling to analyze their coverage of the Biden Administration's Inflation Reduction Act. See [here](https://github.com/intro-to-text-analysis-SIPA-S23/final-project) for the complete assignment sheet. 
 
 - Final project deliverables and grade distribution: 
-    - Due week 5 (5 points): [Schedule a meeting](https://calendly.com/rsk2160/office-hour) with me to discuss ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
+    - Due week 5 (5 points): [Schedule a meeting](https://calendly.com/rsk2160/office-hour) with me to discuss/brainstorm ideas for your final project. You must have a meeting scheduled on the calendar **by the end of week5, but the meeting can happen the following  week, if needed.**
     - Due week 8 (15 points): Project proposal 
-    - Due  12/6 or 12/20 (20 points): In-class project presentations (15 points for the presentation, 5 points for questions)
+    - Due  week 13 or exam week (20 points): In-class project presentations (15 points for the presentation, 5 points for questions)
     - Due 12/20 at 9:00am: Final project
 
      <br>
@@ -110,7 +110,7 @@ Bringing a laptop computer to class is a requirement for this course.
 
 
 ## Class Slack Space
-To facilitate communication, I created this [Slack space](https://join.slack.com/t/f23sipatextan-fvk1391/shared_invite/zt-24v1q2u0y-jyvLgR4Sz~U3GF9VfxTYvQ). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
+To facilitate communication, I created this [Slack space](https://join.slack.com/t/columbia-iaq3483/shared_invite/zt-2mae2026e-2L29_cPpr1bUQh2IasvKKQ). Follow the link and select "sign in with email" (avoid using the "sign-in with Google" option). Next, enter your email and full name. A verification code will be sent to your email address. Once you receive it, copy/paste it into the Slack page and you should be good to go!  
 <br>
 
 I will use our Slack space **during our class time** to share files, links, and other necessary information that you need. In addition, you can use this space **during class time** to send me screenshots of your code/output if you are not able to move forward. I will help you troubleshoot it while projecting your screenshot on the screen so others can learn from the process. You may also post troubleshooting questions in the #general channel outside of class sessions. I will check the Slack channel at least once a day. 
@@ -140,12 +140,12 @@ This week, we will review the syllabus and the course objectives. We will also d
     - Getting the most out of this class
     - Final projects
  
-*Important: Please complete this [class survey](https://docs.google.com/forms/d/1mzVC821XtZy5I9UkuehdhOaadFm31Y06GrS5vgV64o8/edit)*
+*Important: Please complete this [class survey](https://forms.gle/uxAzvJrdtp1ap7qJ9)*
 
 
 **Week 2 (9/11): Introduction to Git and Github + Python Basics**
 
-This week, we will learn how to use Github, which is an industry-standard tool for collaborative and individual projects. GitHub is a web-based platform for storing and sharing project files online. You will use GitHub throughout the semester to share your homework assignments. Having a GitHub page with evidence of your programming work can serve as a data science portfolio when applying for jobs.
+This week, we will learn how to use Github, which is an industry-standard tool for collaborative and individual projects. GitHub is a web-based platform for storing and sharing project files online. Having a GitHub page with evidence of your programming work can serve as a data science portfolio when applying for jobs. For this reason, your final projects will live on Github.
 
 We will also dive into Python basics! We will cover foundational concepts for data science in Python and become familiar with [Google Colab](https://colab.research.google.com/?utm_source=scs-index#scrollTo=qL_eyskFWx18), which will be our primary way of interacting with Python.
 
@@ -192,7 +192,7 @@ This week we are continuing our introduction to the Python programming language.
 
 This week, we will review the principles of data wrangling, cleaning, analysis, and visualization. Wrangling is the process of transforming data from a raw format into one that is legible. Cleaning entails making sure our data does not include inconsistencies such as duplicate entries or information stored in the wrong format. Analysis and visualizations are ways of telling a story with the data, and uncovering insights that may lead to new research questions. 
 
-We will be using the Pandas Pythin library to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. 
+We will be using the Pandas Python library to help us achieve our data processing goals. You can think of a Python library like software that works specifically for Python. Just like you might use Microsoft Excel for data exploration on your personal computer, in Python we have libraries like Pandas that we can download and then import (a fancy word for open) in our Python environment. Pandas, which stands for "Python Data Analysis Library", is specifically designed for data manipulation and analysis. 
 
 
 - Topics covered:
@@ -233,14 +233,18 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
         - Digital Humanities at Yale University Library: [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
         - Boston College Library: [Text and Data Mining Projects](https://libguides.bc.edu/textdatamining/projects)
 
-**Week 6 (10/9): Data collection: Web scraping with the Beautiful Soup library**
+**Week 6 (10/9): Data collection: Web scraping**
 
 This week, we will use the Beautiful Soup Python library for web scraping. Web scraping is the process of extracting content and data from a website using a programming language. In this case, we will web scrape to extract text from websites. 
+
+We will also learn how to extract news articles from the Factiva News database and store the results in a Pandas dataframe.
 
 - Topics covered: 
     - What is web scraping?
     - What are the laws and ethics governing web scraping?
     - How to web scrape?
+    - What is Factiva?
+    - How to scrape articles from the Factiva database?
 - Curriculum for this session:
     - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
 - Quiz this week covering material from weeks 4 & 5 
@@ -279,7 +283,7 @@ This week, we will learn how to make data requests from the YouTube API. We will
     - How to connect to the YouTube API
     - Ethics of working with Social Media data.
     - How to extract top hashtags.
-    - How to get data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
+    - Getting data from Facebook, Instagram, TikTok, Reddit, Spotify, and more. 
 -  Curriculum for this session:
     - Rebecca Krisel/ChatGPT, [Extracting Youtube Comments](https://chat.openai.com/share/290c2c82-a05d-405c-a2ce-a182eae074eb)
     - Pedro Hernández, [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
@@ -326,7 +330,6 @@ This week, we will learn how to perform a sentiment analysis using social media 
 - Curriculum for this session:
     - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
     - Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)
-    
 - No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 

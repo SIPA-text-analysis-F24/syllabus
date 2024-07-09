@@ -178,7 +178,7 @@ This week we are continuing our introduction to the Python programming language.
 - Curriculum for this session:
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Function - Common Errors)
 - Assignments (due by 9:00 am on the day of class):
-  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email the link to both Yingkun (yz4521) and me (rsk2160).
+  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email your ReadMe profile link to both Yingkun (yz4521) and me (rsk2160). 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)

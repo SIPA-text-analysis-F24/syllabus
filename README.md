@@ -200,7 +200,7 @@ We will be using the Pandas Python library to help us achieve our data processin
     - The data process: wrangling, cleaning, analysis, and visualization
     - Pandas basics
 - Curriculum for this session:
-    - Rebecca Krisel's [Intro to Pandas](https://gist.github.com/rskrisel/407561c530657f275dc728a753c784b0)
+    - Rebecca Krisel's [Intro to Pandas](https://github.com/rskrisel/pandas/blob/main/pandas_workshop_2024.ipynb)
 - Quiz this week covering materials from weeks 2 & 3
 - Additional readings/resources (not required, but useful!):
     - Explainers: 

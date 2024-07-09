@@ -71,7 +71,7 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 Homework:
 - Due week 3 (20 points): 
-  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email the link to both Yingkun (yz4521) and me (rsk2160).   
+  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email your ReadMe profile link to both Yingkun (yz4521) and me (rsk2160).   
 
 In-class quizzes:
 - We will have 5 in-class, hand-written quizzes throughout the semester each worth 20 points. I will drop the lowest grade:

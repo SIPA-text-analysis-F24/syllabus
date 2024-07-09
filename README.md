@@ -71,7 +71,7 @@ As a beginner's coding class geared towards nonprogrammers, the emphasis is not 
 
 Homework:
 - Due week 3 (20 points): 
-  - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)(see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
+  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email the link to both Yingkun (yz4521) and me (rsk2160).   
 
 In-class quizzes:
 - We will have 5 in-class, hand-written quizzes throughout the semester each worth 20 points. I will drop the lowest grade:
@@ -159,6 +159,7 @@ We will also dive into Python basics! We will cover foundational concepts for da
     - Python syntax, identation, variables, and comments
 - Curriculum for this session:
     - Datacamp: [GitHub and Git Tutorial for Beginners](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners)
+    - GitHub:[The Basics of GitHub](https://github.com/intro-to-text-analysis-F23/week3-github-tutorial-478184?tab=readme-ov-file) 
     - Rebecca Krisel's [_Intro to Python](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Why Pyhton? - Comments)
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
@@ -177,9 +178,7 @@ This week we are continuing our introduction to the Python programming language.
 - Curriculum for this session:
     - Rebecca Krisel's [_Intro to Python_](https://github.com/rskrisel/intro_to_python_workshop/blob/main/Intro_to_Python.ipynb) (Function - Common Errors)
 - Assignments (due by 9:00 am on the day of class):
-    - [Create a GitHub Account](https://www.wikihow.com/Create-an-Account-on-GitHub)
-  - Complete [Git & GitHub Fundamentals assignment](https://classroom.github.com/a/-AI4VQwx)(see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
-    - Complete [Git & GitHub Fundamentals assignment] (see [here](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) for detailed instructions)
+  - Create your GitHub ReadMe profile page following these [instructions](https://docs.google.com/document/d/1ezSjyjAWp_by9y29RDWd6wJVl7X9Amj8kTrHlbVMr_M/edit) and email the link to both Yingkun (yz4521) and me (rsk2160).
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - DHRI [Introduction to Python](https://gc-dri.github.io/Dhrift-GC/workshops/python/) (Introduction - Lists)

@@ -14,8 +14,9 @@
 
 **Office hours:** 
 
-- In person: Wednesdays before class, 8:30 - 9. Email me by Tuesday 6pm to give me a heads up that you want to meet.  
-- On Zoom: Fridays 9:30 - 11:30 am (sign up [here](https://calendly.com/rsk2160/office-hour)). 
+**You must sign up for an appointment [here](https://calendly.com/rsk2160/office-hour)) to join my office hours**
+- In person: Wednesdays in our classroom before class, 8:00 - 9. 
+- On Zoom: Fridays 2:00 - 4:00 pm
 
 
 ---

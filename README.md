@@ -242,7 +242,7 @@ This week, we will learn how to make data requests from an Application Programmi
     - How is it different from web scraping?
     - How to find APIs?
 - Curriculum for this session:
-    - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
+    - Rebecca Krisel's [Intro to APIs with Python](https://github.com/rskrisel/api_workshop/blob/main/API_workshop.ipynb)
     - Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)
 - Quiz this week covering material from weeks 4 & 5 
 - Additional readings/resources (not required, but useful!):
@@ -265,7 +265,7 @@ We will also learn how to extract news articles from the Factiva News database a
     - What is Factiva?
     - How to scrape articles from the Factiva database?
 - Curriculum for this session:
-    - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
+    - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/webscraping/blob/main/web_scraping.ipynb)
 - No quiz this week! 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 

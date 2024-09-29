@@ -233,7 +233,26 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
         - Digital Humanities at Yale University Library: [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/)
         - Boston College Library: [Text and Data Mining Projects](https://libguides.bc.edu/textdatamining/projects)
 
-**Week 6 (10/9): Data collection: Web scraping**
+**Week 6 (10/9): Data collection: Working with APIs**
+
+This week, we will learn how to make data requests from an Application Programming Interface (API). APIs allow users to programmatically extract and interact with data under the hood of websites, social networks, applications, and projects. For example, the weather app on your phone connects to the weather bureau's API system, which contains daily weather data, and shows you daily weather updates. We will specifically work with the free version of News API for collecting news data. 
+
+- Topics covered:
+    - What is an Application Programming Interface (API)?
+    - How is it different from web scraping?
+    - How to find APIs?
+- Curriculum for this session:
+    - Rebecca Krisel's [Intro to APIs with Python](https://gist.github.com/rskrisel/4ff9629df9f9d6bf5a638b8ba6c13a68)
+    - Xavier Adam's [An illustrated introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9) and [API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)
+- Quiz this week covering material from weeks 4 & 5 
+- Additional readings/resources (not required, but useful!):
+    - Tutorials: 
+        - Melanie Walsh,_ Introduction to Cultural Analytics_, [Application Programming Interfaces (APIs)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/05-What-Is-API.html)
+    - Cheat sheets:
+        - Python for Beginners: [List of Python API's](https://www.pythonforbeginners.com/api/list-of-python-apis) 
+
+
+**Week 7 (10/16): Data collection: Web scraping**
 
 This week, we will use the Beautiful Soup Python library for web scraping. Web scraping is the process of extracting content and data from a website using a programming language. In this case, we will web scrape to extract text from websites. 
 
@@ -247,7 +266,7 @@ We will also learn how to extract news articles from the Factiva News database a
     - How to scrape articles from the Factiva database?
 - Curriculum for this session:
     - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/web_scraping_workshop)
-- Quiz this week covering material from weeks 4 & 5 
+- No quiz this week! 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
         - Datacamp: [Scraping the Amazon Best Selling Books](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)

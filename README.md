@@ -266,6 +266,7 @@ We will also learn how to extract news articles from the Factiva News database a
     - How to scrape articles from the Factiva database?
 - Curriculum for this session:
     - Rebecca Krisel's [Web Scraping Media URLs in Python](https://github.com/rskrisel/webscraping/blob/main/web_scraping.ipynb)
+    - Rebecca Krisel's [Collecting news data from Factiva and saving it in a Dataframe](https://github.com/rskrisel/factiva_dataframe/blob/main/Create_spreadsheet_Factiva_data.ipynb)
 - No quiz this week! 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 

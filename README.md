@@ -331,10 +331,10 @@ This week, we will learn how to perform a sentiment analysis using social media 
     - How to use this method with other text data sources?
 - Curriculum for this session:
     - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
-    - Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)
 - No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 
+         - Rebecca Krisel, [Working with Twitter Data](https://github.com/rskrisel/working_with_twitter)
         - Melanie Walsh, _Introduction to Cultural Analytics_, [Sentiment Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/04-Sentiment-Analysis.html)
         - Analytics Vidhya: [Performing Sentiment Analysis Using Twitter Data!](https://www.analyticsvidhya.com/blog/2021/07/performing-sentiment-analysis-using-twitter-data/)
         - Learn Data Science: [Sentiment Analysis on Reddit News Headlines with Python's Natural Language Toolkit (NLTK)](https://www.learndatasci.com/tutorials/sentiment-analysis-reddit-headlines-pythons-nltk/)

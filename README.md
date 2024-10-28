@@ -330,7 +330,7 @@ This week, we will learn how to perform a sentiment analysis using social media 
     - How to perform sentiment analysis with YouTube data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop)
+    - Rebecca Krisel, [Sentiment Analysis Workshop](https://github.com/rskrisel/sentiment_analysis_workshop/blob/main/sentiment_analysis.ipynb)
 - No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials: 

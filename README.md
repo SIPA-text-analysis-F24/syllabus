@@ -395,7 +395,7 @@ This week, we will learn how to apply Named Entity Recognition (NER) to text fil
     - How to perform NER with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [NER Workshop](https://github.com/rskrisel/NER_workshop)
+    - Rebecca Krisel, [NER Workshop](https://github.com/rskrisel/NER_workshop/blob/main/NER_workshop.ipynb)
 - No quiz this week 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:

@@ -425,7 +425,7 @@ This week, we will learn how to use topic modeling to quickly parse out the prim
     - How to perform Topic Modeling with newspaper data?
     - How to use this method with other text data sources?
 - Curriculum for this session:
-    - Rebecca Krisel, [Topic Modeling with Tomotopy](https://github.com/rskrisel/topic_modeling_workshop). Copied from Melanie Walsh's [Topic Modeling with Tomotopy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/09-Topic-Modeling-Without-Mallet.html), but uses a different dataset.
+    - Rebecca Krisel, [Topic Modeling with Tomotopy](https://github.com/rskrisel/topic_modeling_workshop/blob/main/topic_modeling_tomotopy_workshop.ipynb). 
 - Quiz this week covering material from weeks 10 & 11
 - Additional readings/resources (not required, but useful!):
     - Explainers:
